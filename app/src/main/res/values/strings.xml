@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+
+    <string name="q1">The capital of Libya is Benghazi.</string>
+    <string name="q2">Albert Einstein was awarded the Nobel Prize in Physics.</string>
+    <string name="q3">Baby koalas are called joeys.</string>
+    <string name="q4">Gone with the Wind takes place in Savannah, Georgia.</string>
+    <string name="q5">Brazil is the only country in the Americas whose official language is Portuguese.</string>
+    <string name="q6">The first name of Kramer in Seinfeld is Cosmo.</string>
+    <string name="q7">The American Civil War ended in 1776.</string>
+    <string name="q8">A right triangle can never be equilateral.</string>
+
+</resources>
